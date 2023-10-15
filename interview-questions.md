@@ -38,4 +38,4 @@ Research and define the following terms to the best of your ability.
 
 2. React: React is a JavaScript library focused on user interface. Importantly it is declaritive, which is supposed to make it easier to debug
 
-3. JSX: JSX stands for JavaScript XML and is a JavaScript syntax
+3. JSX: JSX stands for JavaScript XML and is a JavaScript syntax extension that allows you to write JavaScript that looks like HTML and produces React elements.
